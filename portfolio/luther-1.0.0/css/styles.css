@@ -1,5 +1,5 @@
 /* =================================================================== 
- * Luther Main Stylesheet
+ * Abdullah Bin Hossain Portfolio Stylesheet
  * Template Ver. 1.0.0
  * 02-15-2021
  * ------------------------------------------------------------------
@@ -3655,6 +3655,10 @@ img.u-pull-left {
     width          : var(--item-min-height);
     height         : var(--item-min-height);
     margin         : 0;
+}
+
+.folio-list__item-pic img.payra-project-image {
+    object-fit : contain;
 }
 
 .folio-list__item-pic::before,
